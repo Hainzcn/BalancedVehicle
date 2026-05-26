@@ -1,0 +1,6 @@
+[submodule "K230"]
+	path = K230
+	url = https://github.com/Hainzcn/K230
+[submodule "LP_MSPM0G3507"]
+	path = LP_MSPM0G3507
+	url = https://github.com/Hainzcn/LP_MSPM0G3507
